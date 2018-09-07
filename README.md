@@ -1,3 +1,5 @@
+由于内存泄露的demo很久没有更新了， android studio下clone下来报了很多错误。这个版本是我2018年9月7日花了点时间调试通了的版本，方便日后自己使用。https://github.com/liaohuqiu/leakcanary-demo
+
 [![Android Gems](http://www.android-gems.com/badge/liaohuqiu/leakcanary-demo.svg?branch=master)](http://www.android-gems.com/lib/liaohuqiu/leakcanary-demo)
 
 LeakCanary 简单示例。通过开始菜单，进入到 TestActivity 之后，回退。
